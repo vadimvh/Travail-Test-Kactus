@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "C7B119B1-02B8-4A85-A529-B00C31930927",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 222,
+    "width": 222,
+    "x": 117,
+    "y": 83
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "59F33847-7993-4E01-81BD-4B43128D9623"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F3D0C07E-6E5D-489B-A3CA-08035FAC7D80"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6DE7A8C6-7570-4F64-9D5A-12341E5A0048"
+    }
+  ],
+  "name": "carré avec des ronds$",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
